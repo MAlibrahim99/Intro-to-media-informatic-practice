@@ -87,23 +87,6 @@ void berechne() {
     }
   }
 }
-//String result;
-/* Dieser Code muss durch den Bresenham Algorithmus ersetzt werden.
- Setzen Sie eine Zeichenkette zusammen, indem die Koordinaten
- aller gefüllten Punkte in der Form (x; y) untereinander ausgegeben
- werden. Orientieren Sie sich am unten stehenden Beispielcode.
- Einen Zeilenumbruch führen Sie mit \n herbei. Die Ausgabe soll im
- Textfeld resultOutput erscheinen. */
-
-/*int sampleNumber = 5;
- String resultText = "Dies ist ";
- resultText += "Beispieltext, welcher \n";
- resultText += "Zeilenumbrüche enthält.\n";
- resultText += "Außerdem kann man Zahlen einfügen.\n";
- resultText += "Nehmen wir zum Beispiel die " + sampleNumber + ".\n";
- resultText += "Start: (" + xStart + "; " + yStart + ")\n";
- resultText += "Ende: (" + xEnd + "; " + yEnd + ")"; 
- */
 
 /*==== Ausgabe des Ergebnisses im Textfeld ===*/
 //resultOutput.setText(resultText);
